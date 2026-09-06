@@ -1,4 +1,4 @@
-# RRT-Algorithm
+# RRT*-Algorithm
 Optimal Pathfinding algorithm
 
 Hey, this is my implementation of the RTT* Algorithm. 
