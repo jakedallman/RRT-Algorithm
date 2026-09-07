@@ -1,5 +1,5 @@
 # RRT*-Algorithm
-Deployment: https://jakedallman.github.io/RRT-Algorithm/
+Deployment: [https://jakedallman.github.io/RRT-Algorithm/](https://jakedallman.github.io/RRTSTAR-Algorithm/)
 
 Hey, this is my implementation of the RTT* Algorithm. 
 
